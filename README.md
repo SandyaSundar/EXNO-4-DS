@@ -26,6 +26,13 @@ The feature selection techniques used are:
 # CODING AND OUTPUT:
 <img width="1422" height="568" alt="image" src="https://github.com/user-attachments/assets/4059a3e5-5521-43c5-8c82-90bdd253e794" />
 <img width="1420" height="584" alt="image" src="https://github.com/user-attachments/assets/feeb4cd8-a6b0-4d0c-be72-e1460c776962" />
+<img width="1740" height="627" alt="image" src="https://github.com/user-attachments/assets/e897897f-78cf-48df-8757-42e2a3656ac1" />
+<img width="1727" height="615" alt="image" src="https://github.com/user-attachments/assets/ad3419d1-b538-4cfb-b2d1-85296d260259" />
+<img width="1767" height="602" alt="image" src="https://github.com/user-attachments/assets/b25793d3-c5f3-485a-b95e-fee073de1ce8" />
+<img width="1790" height="695" alt="image" src="https://github.com/user-attachments/assets/f2340fee-210a-4869-ac92-1b5c31baa4d8" />
+<img width="1777" height="585" alt="image" src="https://github.com/user-attachments/assets/cdbf9715-3d8f-4633-9a4c-85d33e41f54f" />
+<img width="1772" height="630" alt="image" src="https://github.com/user-attachments/assets/2857e986-4b3c-40e9-bb73-10e3d3c3eb71" />
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+
+Thus Feature Scaling and Feature Selection process is performed.
